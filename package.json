@@ -1,0 +1,22 @@
+{
+  "name": "node01",
+  "version": "1.0.0",
+  "description": "1",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "dev": "nodemon script.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Alex Sklayr",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
